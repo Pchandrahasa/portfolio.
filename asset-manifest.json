@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio./static/css/main.16229731.css",
+    "main.js": "/portfolio./static/js/main.52f76158.js",
+    "static/js/453.64512fd7.chunk.js": "/portfolio./static/js/453.64512fd7.chunk.js",
+    "static/media/chandrahasa.jpg": "/portfolio./static/media/chandrahasa.3b39a0217dda80978629.jpg",
+    "static/media/hotel.jpeg": "/portfolio./static/media/hotel.5d7846efdd555ad83a3e.jpeg",
+    "static/media/springboot.jpeg": "/portfolio./static/media/springboot.197464c42ec317acdcba.jpeg",
+    "static/media/jobsportel.jpeg": "/portfolio./static/media/jobsportel.590572c2306d6358d031.jpeg",
+    "static/media/nxttrendz.jpeg": "/portfolio./static/media/nxttrendz.0b3b56ce48431e09dbdc.jpeg",
+    "static/media/gmail.jpeg": "/portfolio./static/media/gmail.aeb01df7e41f58c581e0.jpeg",
+    "static/media/checkmark.png": "/portfolio./static/media/checkmark.86728d9a224a2c7c95d4.png",
+    "static/media/linkedin.png": "/portfolio./static/media/linkedin.032cf8a63be2f0f4d425.png",
+    "index.html": "/portfolio./index.html",
+    "main.16229731.css.map": "/portfolio./static/css/main.16229731.css.map",
+    "main.52f76158.js.map": "/portfolio./static/js/main.52f76158.js.map",
+    "453.64512fd7.chunk.js.map": "/portfolio./static/js/453.64512fd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16229731.css",
+    "static/js/main.52f76158.js"
+  ]
+}
