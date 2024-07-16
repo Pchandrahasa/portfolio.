@@ -1,0 +1,26 @@
+#contact{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+
+}
+
+.contact-info-upper-container{
+    display: flex;
+    border-style: solid ;
+    color: grey;
+    border-radius: 10px;
+    padding: 10px;
+    
+}
+
+.contact-info-container{
+    display: flex;
+    align-items: center;
+
+}
+
+.contact-icon{
+    margin: 10px;
+}

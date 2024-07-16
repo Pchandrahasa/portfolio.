@@ -1,0 +1,31 @@
+#contact{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    
+  }
+
+
+.contact-info-upper-container{
+    display: flex;
+    justify-content: center;
+    padding:10px;
+    border-radius: 12px;
+    border-style: solid;
+    color: grey;
+}
+
+.contact-info-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact-icon{
+    margin: 10px;
+    color: white;
+    
+}
